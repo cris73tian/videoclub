@@ -8,7 +8,8 @@ Este proyecto implementa un sistema digital completo para la gestión y administ
 * **Link de la Web Activa:** https://videoclub-vrke.onrender.com
 
 ### 👥 Integrantes:
-* **Cristian Alias** **D.N.I.:** 31061946
+* **Cristian Alias. -**
+* **D.N.I.:** 31061946. -
 
 ### 🛠️ Tecnologías Utilizadas
 * **Backend:** Python 3 + Framework Flask
