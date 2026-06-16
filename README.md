@@ -5,7 +5,7 @@ Este proyecto implementa un sistema digital completo para la gestión y administ
 
 ### 🚀 Información del Proyecto
 * **Modalidad Elegida:** Opción C - Aplicación web con interfaz gráfica (Flask)
-* **Link de la Web Activa:** https://onrender.com
+* **Link de la Web Activa:** https://videoclub-vrke.onrender.com
 
 ### 👥 Integrantes:
 * **Cristian Alias** (cris73tian)
