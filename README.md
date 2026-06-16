@@ -9,7 +9,7 @@ Este proyecto implementa un sistema digital completo para la gestión y administ
 
 ### 👥 Integrantes:
 * **Cristian Alias. -**
-* **D.N.I.:** 31061946. -
+* D.N.I.: 31061946. -
 
 ### 🛠️ Tecnologías Utilizadas
 * **Backend:** Python 3 + Framework Flask
